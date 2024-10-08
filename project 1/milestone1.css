@@ -1,0 +1,40 @@
+body{
+    background-color: aqua;
+    
+}
+
+
+
+h1{
+    color: red;
+}
+
+#img{
+    
+    border-radius: 50%;
+}
+
+
+#toggle-button{
+    background-color: yellow;
+    
+}
+
+#personalinfo{
+    border: 5px solid black;
+}
+
+#education{
+    border: 5px solid black;
+    
+}
+
+#skills{
+    border: 5px solid black;
+}
+
+#workexperience{
+    border: 5px solid black;
+}
+
+
